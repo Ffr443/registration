@@ -1,1 +1,10 @@
+.wrapper {
+  background: url();
+}
 
+.container {
+    width: 400px;
+}
+a {
+    text-decoration: none;
+}
