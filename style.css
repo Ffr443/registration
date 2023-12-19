@@ -1,15 +1,14 @@
 .wrapper {
-  width: 100%;
-  display: block;
+	width: 100%;
+	height: 100%;
+	color: #000;
+	// background: url('')
 }
 
-.container {
-  justify-content: center;
-  width: 500px;
-  align-items: center;
-  display: block;
-  background: #fff;
+.mobile_dark {
+	// background: url('')
 }
-a {
-  text-decoration: none;
+
+.mobile_light {
+	
 }
